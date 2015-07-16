@@ -15,7 +15,7 @@ import java.text.NumberFormat;
 
 /**
  *
- * @author carlosmartinez
+ * @author Diegocontreras
  */
 public class procesador implements Radio{
 private int banda=0, pos;
