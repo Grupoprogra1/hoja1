@@ -12,7 +12,7 @@
 
 /**
  *
- * @author carlosmartinez
+ * @author diegofelix
  */
 public interface Radio {
     
